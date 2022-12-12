@@ -10,7 +10,7 @@
   "author": "Carlotronics <carlotronics.contact@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nightmare": "^3.0.1",
     "prompt": "^1.0.0",
     "selenium-webdriver": "^4.0.0-alpha.7",
